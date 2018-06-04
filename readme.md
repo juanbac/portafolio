@@ -1,2 +1,2 @@
 #Mi Portafolio de proyectos
-Alojamiento para mi proyectos web
+Repositorio para mi proyectos web
